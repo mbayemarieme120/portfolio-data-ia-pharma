@@ -69,7 +69,7 @@ Les pathologies générant le plus d'avis utiles sont la dépression, l'anxiét�
 
 [Voir le dashboard interactif](LIEN_POWER_BI_ICI)
 
-[Aperçu du dashboard](C:\Users\marie\OneDrive\Documents\GitHub\portfolio-data-ia-pharma\projet1-drug-data\dashboard\screenshot.png)
+[Aperçu du dashboard](r'C:\Users\marie\OneDrive\Documents\GitHub\portfolio-data-ia-pharma\projet1-drug-data\dashboard\screenshot.png')
 
 #### Conclusions du dashboard
 
